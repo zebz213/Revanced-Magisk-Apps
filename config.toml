@@ -11,32 +11,37 @@ app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-apkmirror-arch = "both"
+apkmirror-arch = "all"
 
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-build-mode = "both"
+build-mode = "module"
 
 [Reddit]
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-build-mode = "both"
+build-mode = "module"
 version = "latest"
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-build-mode = "both"
+build-mode = "module"
+apkmirror-arch = "arm64-v8a"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-build-mode = "both"
+build-mode = "module"
 
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+build-mode = "module"
