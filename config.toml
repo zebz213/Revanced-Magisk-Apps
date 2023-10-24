@@ -13,7 +13,7 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-apkmirror-arch = "all"
+apkmirror-arch = "arm64-v8a"
 
 [YouTube-Extended]
 app-name = "YouTube"
