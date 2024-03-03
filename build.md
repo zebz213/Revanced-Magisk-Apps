@@ -1,7 +1,7 @@
-Tiktok: 32.5.3  
-Spotify: 8.9.18.512  
-Messenger: 447.1.0.45.106  
 Reddit: 2024.08.0  
+Tiktok: 32.5.3  
+Messenger: 447.1.0.45.106  
+Spotify: 8.9.18.512  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
