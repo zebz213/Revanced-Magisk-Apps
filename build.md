@@ -1,6 +1,6 @@
-Messenger: 447.1.0.45.106  
 Tiktok: 32.5.3  
 Spotify: 8.9.18.512  
+Messenger: 447.1.0.45.106  
 Reddit: 2024.08.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
